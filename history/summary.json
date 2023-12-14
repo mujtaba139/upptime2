@@ -1,22 +1,20 @@
 [
   {
-    "name": "SentryTest",
-    "url": "http://127.0.0.1:8000/",
-    "icon": "https://icons.duckduckgo.com/ip3/127.0.0.1.ico",
-    "slug": "sentry-test",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-12-14": 0
-    }
+    "name": "ASKD.io",
+    "url": "https://www.askd.io/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.askd.io.ico",
+    "slug": "askd-io",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 294,
+    "timeDay": 294,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
+    "dailyMinutesDown": {}
   }
 ]
