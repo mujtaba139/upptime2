@@ -1,20 +1,20 @@
 [
   {
-    "name": "ASKD.io",
-    "url": "https://www.askd.io/",
-    "icon": "https://icons.duckduckgo.com/ip3/www.askd.io.ico",
-    "slug": "askd-io",
+    "name": "ladderocity.com",
+    "url": "https://fcfd.ladderocity.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/fcfd.ladderocity.com.ico",
+    "slug": "ladderocity-com",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 258,
-    "timeWeek": 258,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "time": 244,
+    "timeDay": 244,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   }
 ]
