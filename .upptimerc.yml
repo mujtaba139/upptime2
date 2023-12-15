@@ -5,7 +5,8 @@ repo: upptime2 # The name of this repository
 sites:
   - name: ladderocity.com
     url:  https://fcfd.ladderocity.com/
-
+  - name: askd.io
+    url:  https://www.askd.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
