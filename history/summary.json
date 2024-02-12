@@ -4,7 +4,7 @@
     "url": "https://fcfd.ladderocity.com/",
     "icon": "https://icons.duckduckgo.com/ip3/fcfd.ladderocity.com.ico",
     "slug": "ladderocity-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 358,
     "timeMonth": 340,
     "timeYear": 384,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-12": 0
+    }
   },
   {
     "name": "askd.io",
