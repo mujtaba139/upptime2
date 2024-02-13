@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fcfd.ladderocity.com.ico",
     "slug": "ladderocity-com",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 383,
-    "timeDay": 445,
-    "timeWeek": 357,
-    "timeMonth": 341,
-    "timeYear": 383,
-    "dailyMinutesDown": {
-      "2024-02-12": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 384,
+    "timeDay": 409,
+    "timeWeek": 388,
+    "timeMonth": 349,
+    "timeYear": 384,
+    "dailyMinutesDown": {}
   },
   {
     "name": "askd.io",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 259,
-    "timeWeek": 229,
-    "timeMonth": 215,
-    "timeYear": 231,
+    "time": 230,
+    "timeDay": 155,
+    "timeWeek": 238,
+    "timeMonth": 213,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   }
 ]
